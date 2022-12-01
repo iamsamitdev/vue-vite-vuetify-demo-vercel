@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai&display=swap');
+
+body {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+}
+
+.text-h5{
+    font-family: 'IBM Plex Sans Thai', sans-serif !important;
+    font-size: 16px !important;
+    font-weight: bold;
+}
+
+.v-card .v-card-title{
+    padding: 15px 10px 0px 10px;
+}
+
+.v-dialog .v-overlay__content > .v-card > .v-card-text {
+    padding: 10px;
+}
+
+.v-list-item__prepend > .v-icon {
+    margin-inline-end: 12px !important;
+}

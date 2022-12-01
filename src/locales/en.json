@@ -1,0 +1,23 @@
+{
+    "languages": "Languages",
+    "add_product": "Add Product",
+    "edit_product": "Edit Product",
+    "product_name": "Name",
+    "product_price": "Price",
+    "product_manage": "Manage",
+    "menu_dashboard": "Dashboard",
+    "menu_product": "Products",
+    "menu_order": "Orders",
+    "menu_report": "Reports",
+    "menu_setting": "Setting",
+    "menu_logout": "Logout",
+    "lorem_text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde culpa fugit, ullam consequuntur quidem totam iste, eaque nostrum maiores harum labore inventore impedit dolor ex nemo quibusdam illo architecto ipsum",
+    "btn_close": "Close",
+    "btn_save": "Save",
+    "btn_update": "Update",
+    "btn_delete": "Delete",
+    "msg_confirm_del_title": "Confirm to delete this item ?",
+    "msg_confirm_del_subtitle": "This item permanent delete when you confirmed",
+    "btn_no": "No",
+    "btn_yes_delete": "Yes , Delete It"
+}

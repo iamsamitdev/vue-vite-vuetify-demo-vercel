@@ -1,0 +1,23 @@
+{
+    "languages": "언어",
+    "add_product": "제품 추가",
+    "edit_product": "제품 수정",
+    "product_name": "이름",
+    "product_price": "가격",
+    "product_manage": "관리하다",
+    "menu_dashboard": "계기반",
+    "menu_product": "제품",
+    "menu_order": "명령",
+    "menu_report": "보고서",
+    "menu_setting": "설정",
+    "menu_logout": "로그 아웃",
+    "lorem_text": "간단한 모의 콘텐츠 인쇄 또는 조판 사업에 사용 그것은 16세기부터 알려지지 않은 인쇄업자가 활자 레일을 잡고 문자 위치를 뒤섞어 견본 책을 만들었을 때부터 그러한 사업의 표준 목업이었습니다",
+    "btn_close": "닫다",
+    "btn_save": "구하다",
+    "btn_update": "업데이트",
+    "btn_delete": "삭제",
+    "msg_confirm_del_title": "이 항목을 삭제하시겠습니까?",
+    "msg_confirm_del_subtitle": "이 항목은 확인 시 영구 삭제됩니다.",
+    "btn_no": "아니",
+    "btn_yes_delete": "예, 삭제합니다"
+}
